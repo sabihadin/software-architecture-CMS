@@ -1,0 +1,2 @@
+-	Template used: adr-template-minimal.md(madr/template/adr-template-minimal.md at 4.0.0 · adr/madr · GitHub)
+-	Yasmine Cherif. (2024). Understanding the Layered Architecture Pattern: A Comprehensive Guide. Understanding the Layered Architecture Pattern: A Comprehensive Guide - DEV Community
